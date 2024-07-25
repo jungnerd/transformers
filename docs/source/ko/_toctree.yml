@@ -28,7 +28,7 @@
   - local: llm_tutorial
     title: 대규모 언어 모델로 생성하기
   - local: in_translation
-    title: (번역중)Chatting with Transformers
+    title: (test)Chatting with Transformers
   title: 튜토리얼
 - sections:
   - isExpanded: false
